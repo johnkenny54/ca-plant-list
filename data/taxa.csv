@@ -270,7 +270,7 @@ Bromus madritensis,Spanish brome,X,,,,,16263,1207,52707,137215,true
 Bromus pseudolaevipes,woodland brome,N,,,,,16275,1211,75908,137271,true,Coast Range Brome
 Bromus racemosus,smooth brome,X,,,,,16278,11440,75909,137276,true
 Bromus rubens,foxtail chess,X,,,,,16281,13634,59210,137281,true
-Bromus sitchensis var. carinatus,California brome,N,,,,,108589,13623,52700,375313,Bromus carinatus,Sitka Brome
+Bromus sitchensis var. carinatus,California brome,N,,,,,108589,13623,52700,375313,Bromus carinatus,California Brome Grass
 Bromus sitchensis var. marginatus,mountain brome,N,,,,,108590,13624,159467,169226,Bromus carinatus var. marginatus
 Bromus sitchensis var. maritimus,maritime brome,N,,,,,108591,13625,71142,377677,Bromus maritimus,Maritime Brome
 Bromus sterilis,poverty brome,X,,,,,16288,1216,57163,137298,true
@@ -1044,6 +1044,7 @@ Lasthenia conjugens,Contra Costa goldfields,N,,,,,3729,4579,77629,204539,true,Co
 Lasthenia ferrisiae,,N,,,,,3732,4582,57996,204542,true,Ferris' Goldfields,,1301,4.2,,,S3,G3
 Lasthenia fremontii,goldfields,N,,,,,3733,4583,57997,204543,true,Fremont's Goldfields
 Lasthenia glaberrima,goldfields,N,,,,,3734,4584,60137,204544,true,Smooth Goldfields
+Lasthenia glabrata subsp. coulteri,Coulter's goldfields,N,annual,yellow,4,5,6124,4586,57999,,,,,,1B.1,,,S2,G4T2
 Lasthenia glabrata subsp. glabrata,,N,,,,,6125,4587,64193,204547,true,Yellow-ray Goldfields
 Lasthenia gracilis,,N,,yellow,2,6,79082,9143,56761,204548,true,Common Goldfields
 Lasthenia maritima,Farallon weed,N,,,,,3738,4592,64253,204550,true,Maritime
